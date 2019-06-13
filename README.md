@@ -1,17 +1,17 @@
 # Basic Express Typescript server
 
 
-Install modules
+- Install modules
 ```
 npm install
 ```
 
-Generate dist
+- Generate dist and watch for changes
 ```
 tsc -w
 ```
 
-Serve
+- Serve
 ```
 node dist/
 nodemon dist/
